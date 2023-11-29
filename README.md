@@ -1,1 +1,1 @@
-# ISR_morphology_time-delay
+# Effects of neuronal morphology and time delay on inverse stochastic resonance in two-compartment neuron model
